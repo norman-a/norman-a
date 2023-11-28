@@ -25,9 +25,9 @@
 <h3 align="left">Languages I've dabbled in and want to do a few projects in:</h3>
 <img src="https://skillicons.dev/icons?i=go,rust" alt="language2 logos" />
 <h3 align="left">Some frameworks and tools I've been exposed to as a fullstack developer:</h3>
-<img src="https://skillicons.dev/icons?i=vue,postgresql,bash,postman,docker,git,aws" alt="language2 logos" />
+<img src="https://skillicons.dev/icons?i=vue,postgresql,bash,postman,docker,git,aws" alt="fullstack logos" />
 <h3 align="centre">As I'm moving towards embedded and systems engineering, I've learned and will learn more about computer hardware, architecture and operating systems, and a bit of circuit design and hardware engineering.</h3>
-
+<img src="https://skillicons.dev/icons?i=raspberrypi,linux" alt="embedded logos" />
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=norman-a&show_icons=true&locale=en&layout=compact" alt="norman-a" /></p>
