@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/normanaca" target="blank"><img src="https://img.shields.io/twitter/follow/normanaca?logo=twitter&style=for-the-badge" alt="normanaca" /></a> </p>
 
-- 🔭 I’m currently pursuing **Embedded and Systems Software Engineering**
+- 🔭 I’m currently **an Embedded Software Engineer at Ciena**
 
-- 📫 How to reach me **info@iamnorman.com**
+- 📫 How to reach out to me: **info@iamnorman.com**
 
 - 📄 Know about my experiences [https://www.iamnorman.com/norman_resume.pdf](https://www.iamnorman.com/norman_resume.pdf)
 
@@ -22,10 +22,6 @@
 <h3 align="left">Some Languages I've learned and worked with:</h3>
 <img src="https://skillicons.dev/icons?i=c,cpp,js,py" alt="language logos" />
 <p align="left">
-<!-- <h3 align="left">Languages I've dabbled in and want to do a few projects in:</h3>
-<img src="https://skillicons.dev/icons?i=go,rust" alt="language2 logos" /> -->
-<!-- <h3 align="left">Some frameworks and tools I've been exposed to as a fullstack developer:</h3>
-<img src="https://skillicons.dev/icons?i=vue,postgresql,bash,postman,docker,git,aws" alt="fullstack logos" /> -->
 <h3 align="centre">As I'm moving towards embedded and systems engineering, I've learned and will learn more about computer hardware, architecture and operating systems, and a bit of circuit design and hardware engineering.</h3>
 <img src="https://skillicons.dev/icons?i=raspberrypi,linux" alt="embedded logos" />
 
