@@ -1,6 +1,6 @@
 [<img align="center" src="https://www.einfochips.com/blog/wp-content/uploads/2018/10/iot_1.gif" alt="MasterHead" width="1000">](https://iamnorman.com)
 <h1 align="center">Hi 👋, I'm Norman.</h1>
-<h3 align="center"> MSc, Computer Science at Georgia Tech</h3>
+<h3 align="center"> Embedded Engineer</h3>
 <img align="right" alt="Engineer" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=norman-a&label=Profile%20views&color=0e75b6&style=flat" alt="norman-a" /> </p>
