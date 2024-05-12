@@ -19,11 +19,11 @@
 <a href="https://twitter.com/normanaca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="normanaca" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@nplusplus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nplusplus" height="30" width="40" /></a>
 </p>
-<h3 align="left">Some Languages I've learned and worked with:</h3>
+<!-- <h3 align="left">Some Languages I've learned and worked with:</h3>
 <img src="https://skillicons.dev/icons?i=c,cpp,js,py" alt="language logos" />
 <p align="left">
 <h3 align="centre">As I'm moving towards embedded and systems engineering, I've learned and will learn more about computer hardware, architecture and operating systems, and a bit of circuit design and hardware engineering.</h3>
-<img src="https://skillicons.dev/icons?i=raspberrypi,linux" alt="embedded logos" />
+<img src="https://skillicons.dev/icons?i=raspberrypi,linux" alt="embedded logos" /> -->
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=norman-a&show_icons=true&locale=en&layout=compact" alt="norman-a" /></p> -->
 
