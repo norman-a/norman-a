@@ -11,7 +11,7 @@
 
 - 📫 How to reach out to me: **info@iamnorman.com**
 
-- 📄 Know about my experiences [https://www.iamnorman.com/norman_resume.pdf](https://www.iamnorman.com/norman_resume.pdf)
+- 📄 Learn more about my professional experience: [https://www.iamnorman.com/norman_resume.pdf](https://www.iamnorman.com/norman_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
