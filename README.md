@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently **a low-level software engineer at Cisco, working on linux device drivers. I live in the Bay area.**
 
-- 📫 How to reach out to me: **info@iamnorman.com**
+- 📫 How to reach out to me: **normanady@outlook.com**
 
 - 📄 Learn more about my professional experience: [https://www.iamnorman.com/norman_resume.pdf](https://www.iamnorman.com/norman_resume.pdf)
 
