@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/normanaca" target="blank"><img src="https://img.shields.io/twitter/follow/normanaca?logo=twitter&style=for-the-badge" alt="normanaca" /></a> </p>
 
-- 🔭 I’m currently **a low-level software engineer at Cisco, working on linux drivers. I live in the Bay area.**
+- 🔭 I’m currently **at Cisco, working on linux drivers. I live in the Bay area.**
 
 - 📫 How to reach out to me: **normanady@outlook.com**
 
